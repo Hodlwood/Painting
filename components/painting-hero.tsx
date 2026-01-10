@@ -8,22 +8,22 @@ export function PaintingHero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/screenshot-202026-01-10-20163939.png"
+          src="/images/da86cd74-e969-42f3-8815-db83a1051747.png"
           alt="Modern beach house construction by AC Builders"
           fill
           className="object-cover"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-transparent" />
       </div>
 
       {/* Content */}
       <div className="container mx-auto px-4 z-10 relative">
         <div className="max-w-3xl">
-          <h2 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-white mb-6 leading-tight text-balance">
-            From Cape May to Avalon — <span className="text-primary">We Build It All</span>
+          <h2 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-white mb-6 leading-tight text-balance drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
+            From Cape May to Avalon —{" "}
+            <span className="text-primary drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">We Build It All</span>
           </h2>
-          <p className="text-xl md:text-2xl text-white mb-8 text-pretty">
+          <p className="text-xl md:text-2xl text-white mb-8 text-pretty drop-shadow-[0_2px_6px_rgba(0,0,0,0.8)]">
             Locally owned. Family trusted. Building Cape May County homes for over 50 YEARS!
           </p>
 

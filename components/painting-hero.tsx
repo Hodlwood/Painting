@@ -4,14 +4,14 @@ import Image from "next/image"
 
 export function PaintingHero() {
   return (
-    <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden pt-20">
+    <section className="relative min-h-[60vh] md:min-h-[90vh] flex items-center justify-center overflow-hidden pt-20">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/da86cd74-e969-42f3-8815-db83a1051747.png"
           alt="Modern beach house construction by AC Builders"
           fill
-          className="object-cover"
+          className="object-cover object-top md:object-center"
           priority
         />
       </div>

@@ -8,7 +8,7 @@ export function PaintingHero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/screenshot-202026-01-10-20153939.png"
+          src="/images/screenshot-202026-01-10-20163939.png"
           alt="Modern beach house construction by AC Builders"
           fill
           className="object-cover"
@@ -24,7 +24,7 @@ export function PaintingHero() {
             From Cape May to Avalon — <span className="text-primary">We Build It All</span>
           </h2>
           <p className="text-xl md:text-2xl text-white mb-8 text-pretty">
-            Locally owned. Family trusted. Building Cape May County homes since 1975.
+            Locally owned. Family trusted. Building Cape May County homes for over 50 YEARS!
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

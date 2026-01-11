@@ -27,7 +27,7 @@ export function FaqSection() {
     {
       question: "Are you licensed and insured?",
       answer:
-        "Absolutely. Anthony Christaldi Builders is fully licensed in New Jersey and carries comprehensive insurance for your complete protection and peace of mind throughout your project.",
+        "Absolutely. Anthony Christaldi Builders is fully licensed in New Jersey (License #13VH0492600) and carries comprehensive insurance for your complete protection and peace of mind throughout your project.",
     },
     {
       question: "How long does a typical remodeling project take?",

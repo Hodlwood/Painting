@@ -15,7 +15,7 @@ const features = [
     icon: "🏆",
     title: "Licensed & Fully Insured",
     description:
-      "Fully licensed New Jersey contractor with comprehensive insurance for your complete protection and peace of mind.",
+      "Fully licensed New Jersey contractor (License #13VH0492600) with comprehensive insurance for your complete protection and peace of mind.",
   },
   {
     icon: "🛁",

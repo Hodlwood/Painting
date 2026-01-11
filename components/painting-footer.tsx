@@ -1,5 +1,4 @@
 import Link from "next/link"
-import { Facebook } from "lucide-react"
 
 export function PaintingFooter() {
   return (
@@ -15,17 +14,6 @@ export function PaintingFooter() {
               Building quality homes in Cape May County since 1975. Three generations of craftsmanship and family
               values.
             </p>
-            <div className="flex gap-3">
-              <a
-                href="https://www.facebook.com/profile.php?id=61581568745991"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors"
-                aria-label="Facebook"
-              >
-                <Facebook className="w-4 h-4" />
-              </a>
-            </div>
           </div>
 
           {/* Services */}
@@ -104,6 +92,7 @@ export function PaintingFooter() {
               <li className="text-white/70">
                 Serving Cape May, Avalon, Stone Harbor, Sea Isle City & surrounding Cape May County areas
               </li>
+              <li className="text-white/70">License #13VH0492600</li>
             </ul>
           </div>
         </div>

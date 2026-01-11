@@ -77,13 +77,13 @@ export function WarrantySection() {
 
         <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="tel:443-760-6051"
+            href="tel:609-743-6280"
             className="inline-flex items-center justify-center gap-2 px-8 py-3 bg-secondary text-white font-semibold rounded-lg hover:bg-secondary/90 transition-colors text-lg shadow-lg"
           >
             📞 Call Now
           </a>
           <a
-            href="sms:443-760-6051"
+            href="sms:609-743-6280"
             className="inline-flex items-center justify-center gap-2 px-8 py-3 bg-white text-primary font-semibold rounded-lg hover:bg-white/90 transition-colors text-lg shadow-lg"
           >
             💬 Text Us

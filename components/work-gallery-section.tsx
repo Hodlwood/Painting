@@ -9,7 +9,7 @@ const galleryImages = [
     title: "Modern Kitchen Transformation",
     category: "Kitchen & Bathroom",
     size: "large",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-202026-01-11-20150004.png",
   },
   {
     id: 2,
@@ -27,10 +27,10 @@ const galleryImages = [
   },
   {
     id: 4,
-    title: "Bedroom Addition",
+    title: "Home Addition",
     category: "Home Additions",
     size: "large",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/image1.jpeg",
   },
   {
     id: 5,

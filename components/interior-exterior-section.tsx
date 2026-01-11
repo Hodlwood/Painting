@@ -16,8 +16,9 @@ export function InteriorExteriorSection() {
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">New Home Construction</h2>
 
               <p className="text-lg text-gray-600 leading-relaxed">
-                Build your dream home from the ground up with AC Builders. With 50 years of experience, we bring your
-                vision to life with expert craftsmanship, quality materials, and personalized attention to every detail.
+                Build your dream home from the ground up with Anthony Christaldi Builders. With 50 years of experience,
+                we bring your vision to life with expert craftsmanship, quality materials, and personalized attention to
+                every detail.
               </p>
 
               <div className="space-y-4 pt-4">

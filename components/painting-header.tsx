@@ -25,7 +25,7 @@ export function PaintingHeader() {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center group">
             <div className="h-16 flex items-center scale-125 transition-transform group-hover:scale-[1.3]">
-              <span className="font-heading font-bold text-2xl text-foreground">AC Builders</span>
+              <span className="font-heading font-bold text-2xl text-foreground">Anthony Christaldi Builders</span>
             </div>
           </Link>
 

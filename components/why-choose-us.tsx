@@ -47,7 +47,9 @@ export function WhyChooseUs() {
 
           <div className="relative z-10">
             <div className="text-center mb-12">
-              <h2 className="font-heading font-bold text-4xl md:text-5xl text-white mb-4">Why Choose AC Builders?</h2>
+              <h2 className="font-heading font-bold text-4xl md:text-5xl text-white mb-4">
+                Why Choose Anthony Christaldi Builders?
+              </h2>
               <p className="text-lg text-blue-100 max-w-2xl mx-auto">
                 We're more than builders—we're your trusted partners in creating the home of your dreams.
               </p>

@@ -9,7 +9,7 @@ export function PaintingFooter() {
           {/* Company Info */}
           <div>
             <div className="mb-4">
-              <span className="font-heading font-bold text-2xl text-white">AC Builders</span>
+              <span className="font-heading font-bold text-2xl text-white">Anthony Christaldi Builders</span>
             </div>
             <p className="text-white/70 text-sm mb-4">
               Building quality homes in Cape May County since 1975. Three generations of craftsmanship and family
@@ -111,7 +111,7 @@ export function PaintingFooter() {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/60">
-            <p>© 2025 AC Builders. All rights reserved.</p>
+            <p>© 2025 Anthony Christaldi Builders. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="/privacy" className="hover:text-white transition-colors">
                 Privacy Policy

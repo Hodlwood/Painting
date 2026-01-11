@@ -5,22 +5,28 @@ import { Button } from "@/components/ui/button"
 
 const reviews = [
   {
-    name: "Sarah M.",
-    location: "Wilmington, DE",
+    name: "Robert T.",
+    location: "Cape May, NJ",
     rating: 5,
-    text: "The crew was respectful, on time, and professional. My kitchen looks brand new after their cabinet painting service!",
+    text: "Tony and his team built our dream beach house. The craftsmanship is outstanding and they stayed on schedule throughout the entire project. Highly recommend Anthony Christaldi Builders!",
   },
   {
-    name: "Mark B.",
-    location: "Newark, DE",
+    name: "Jennifer P.",
+    location: "Avalon, NJ",
     rating: 5,
-    text: "We found Elite by searching painters in my area — best decision we made this year.",
+    text: "We hired Anthony Christaldi Builders for a major home addition. Tony's attention to detail and 50+ years of experience really showed. Our family couldn't be happier!",
   },
   {
-    name: "Dana R.",
-    location: "Bear, DE",
+    name: "Michael S.",
+    location: "Stone Harbor, NJ",
     rating: 5,
-    text: "The exterior house painters from Elite completely transformed our home in 3 days.",
+    text: "From our initial consultation to the final walkthrough, Tony made our kitchen and bathroom remodel seamless. True professionals who deliver quality work.",
+  },
+  {
+    name: "Lisa M.",
+    location: "Sea Isle City, NJ",
+    rating: 5,
+    text: "Tony transformed our outdated bathroom with a beautiful tub-to-shower conversion. The result is stunning and exactly what we wanted!",
   },
 ]
 
@@ -65,7 +71,7 @@ export function ReviewsSection() {
         <div className="text-center mb-16">
           <h2 className="font-heading font-bold text-4xl md:text-5xl text-foreground mb-4">Customer Reviews</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Don't just take our word for it—hear from homeowners across Delaware
+            Hear from homeowners across Cape May County who trust Tony and Anthony Christaldi Builders
           </p>
         </div>
 

@@ -5,9 +5,9 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 export function FaqSection() {
   const faqs = [
     {
-      question: "How long has AC Builders been in business?",
+      question: "How long has Anthony Christaldi Builders been in business?",
       answer:
-        "AC Builders has been serving Cape May County since 1975. With over 50 years of experience, we're a trusted family-owned business with three generations of building expertise.",
+        "Anthony Christaldi Builders has been serving Cape May County since 1975. With over 50 years of experience, we're a trusted family-owned business with three generations of building expertise.",
     },
     {
       question: "What types of construction services do you offer?",
@@ -27,7 +27,7 @@ export function FaqSection() {
     {
       question: "Are you licensed and insured?",
       answer:
-        "Absolutely. AC Builders is fully licensed in New Jersey and carries comprehensive insurance for your complete protection and peace of mind throughout your project.",
+        "Absolutely. Anthony Christaldi Builders is fully licensed in New Jersey and carries comprehensive insurance for your complete protection and peace of mind throughout your project.",
     },
     {
       question: "How long does a typical remodeling project take?",
@@ -45,7 +45,7 @@ export function FaqSection() {
         "We proudly serve all of Cape May County including Cape May, Avalon, Stone Harbor, Sea Isle City, and surrounding communities. We've been building in this area for 50 years and know the local building codes and requirements inside and out.",
     },
     {
-      question: "What sets AC Builders apart from other contractors?",
+      question: "What sets Anthony Christaldi Builders apart from other contractors?",
       answer:
         "Our 50-year legacy, family ownership, and commitment to quality craftsmanship set us apart. We treat every project like it's our own home, using premium materials and time-tested techniques backed by three generations of building expertise.",
     },

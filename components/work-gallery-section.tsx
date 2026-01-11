@@ -23,7 +23,7 @@ const galleryImages = [
     title: "Living Space Renovation",
     category: "Remodeling",
     size: "medium",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-202026-01-11-20153632.png",
   },
   {
     id: 4,
@@ -37,28 +37,28 @@ const galleryImages = [
     title: "Luxury Bathroom Remodel",
     category: "Kitchen & Bathroom",
     size: "medium",
-    image: "/images/image-2010-10-25-20at-208.jpeg",
+    image: "/images/screenshot-2025-11-05-175930.png",
   },
   {
     id: 6,
     title: "Custom Deck Build",
     category: "Decks",
     size: "medium",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-2026-01-11-135014.png",
   },
   {
     id: 7,
     title: "Shower Conversion",
     category: "Bath Tub to Shower Conversions",
     size: "medium",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-2025-11-05-175235.png",
   },
   {
     id: 8,
     title: "Home Theater Installation",
     category: "Home Theater Rooms",
     size: "medium",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-2026-01-11-134912.png",
   },
 ]
 

@@ -2,26 +2,26 @@ const steps = [
   {
     icon: "📋",
     number: "01",
-    title: "Free Estimate",
-    description: "On-site or virtual walkthrough with detailed pricing.",
+    title: "Free Consultation",
+    description: "On-site evaluation and detailed project estimate.",
   },
   {
-    icon: "🎨",
+    icon: "🏗️",
     number: "02",
-    title: "Design & Color Guidance",
-    description: "We help you choose the perfect finish and tones.",
+    title: "Design & Planning",
+    description: "Blueprint review, material selection, and timeline.",
   },
   {
-    icon: "🖌️",
+    icon: "🔨",
     number: "03",
-    title: "Prep & Paint",
-    description: "Surfaces are cleaned, repaired, and expertly coated.",
+    title: "Construction",
+    description: "Professional build with quality craftsmanship.",
   },
   {
     icon: "✅",
     number: "04",
     title: "Final Walkthrough",
-    description: "No job is done until you're 100% satisfied.",
+    description: "Ensuring your complete satisfaction.",
   },
 ]
 

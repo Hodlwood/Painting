@@ -85,8 +85,8 @@ export function InteriorExteriorSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-primary/20 rounded-2xl blur-2xl group-hover:blur-3xl transition-all duration-500" />
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border-4 border-white shadow-2xl">
                 <Image
-                  src="/images/screenshot-202026-01-11-20135105.jpg"
-                  alt="Home addition with screened porch"
+                  src="/images/screenshot-202026-01-11-20164705.png"
+                  alt="Custom outdoor living space and patio remodel"
                   fill
                   className="object-cover"
                 />

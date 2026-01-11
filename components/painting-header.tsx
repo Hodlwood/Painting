@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
+import Image from "next/image"
 
 export function PaintingHeader() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -24,8 +25,15 @@ export function PaintingHeader() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center group">
-            <div className="h-16 flex items-center scale-125 transition-transform group-hover:scale-[1.3]">
-              <span className="font-heading font-bold text-2xl text-foreground">Anthony Christaldi Builders</span>
+            <div className="h-36 flex items-center transition-transform group-hover:scale-105">
+              <Image
+                src="/images/8a47b8cd-97ed-4191-8c2b.png"
+                alt="Anthony Christaldi Builders"
+                width={450}
+                height={144}
+                className="h-full w-auto object-contain"
+                priority
+              />
             </div>
           </Link>
 

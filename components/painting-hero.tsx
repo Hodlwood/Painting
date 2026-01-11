@@ -24,7 +24,7 @@ export function PaintingHero() {
             <span className="text-primary drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">We Build It All</span>
           </h2>
           <p className="text-xl md:text-2xl text-white mb-8 text-pretty drop-shadow-[0_2px_6px_rgba(0,0,0,0.8)]">
-            Locally owned. Family trusted. Building Cape May County homes for over 50 YEARS!
+            Family owned. Locally trusted. Building & Renovating Cape May County homes since 1975...
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

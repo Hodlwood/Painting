@@ -13,7 +13,7 @@ export function LocationsStrip() {
           {credentials.map((item, index) => (
             <div key={index} className="flex items-center gap-2">
               <span className="text-xl">{item.icon}</span>
-              <span className="text-sm md:text-base font-semibold text-white">{item.text}</span>
+              <span className="text-xs md:text-base font-semibold text-white">{item.text}</span>
               {index < credentials.length - 1 && <span className="hidden md:inline text-white/60 ml-4 md:ml-6">|</span>}
             </div>
           ))}

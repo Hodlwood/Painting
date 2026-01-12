@@ -18,20 +18,20 @@ export function PaintingHeader() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 h-20 ${
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 h-24 md:h-20 ${
         isScrolled ? "bg-white shadow-md" : "bg-white/95 backdrop-blur-sm"
       }`}
     >
       <div className="container mx-auto px-4 h-full">
         <div className="flex items-center justify-between h-full">
           <Link href="/" className="flex items-center group">
-            <div className="flex items-center py-2 transition-transform group-hover:scale-105">
+            <div className="flex items-center transition-transform group-hover:scale-105">
               <Image
                 src="/images/8a47b8cd-97ed-4191-8c2b.png"
                 alt="Anthony Christaldi Builders"
                 width={400}
                 height={128}
-                className="h-32 w-auto object-contain"
+                className="h-20 md:h-32 w-auto object-contain"
                 priority
               />
             </div>
@@ -80,7 +80,7 @@ export function PaintingHeader() {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <nav className="md:hidden mt-4 pb-4 border-t pt-4 space-y-3">
+          <nav className="md:hidden border-t pt-2 pb-2 space-y-2 bg-white">
             <Link
               href="#services"
               className="block text-sm font-medium text-foreground hover:text-primary transition-colors"

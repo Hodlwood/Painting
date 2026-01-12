@@ -31,7 +31,7 @@ export function PaintingHeader() {
                 alt="Anthony Christaldi Builders"
                 width={400}
                 height={128}
-                className="h-32 w-auto object-contain"
+                className="h-10 md:h-32 w-auto object-contain"
                 priority
               />
             </div>

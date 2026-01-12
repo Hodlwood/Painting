@@ -4,7 +4,7 @@ import Image from "next/image"
 
 export function PaintingHero() {
   return (
-    <section className="relative min-h-[60vh] md:min-h-[90vh] flex items-center justify-center overflow-hidden pt-24 md:pt-20">
+    <section className="relative min-h-[60vh] md:min-h-[90vh] flex items-center justify-center overflow-hidden pt-16 md:pt-20">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image

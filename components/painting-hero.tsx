@@ -11,7 +11,7 @@ export function PaintingHero() {
           src="/images/da86cd74-e969-42f3-8815-db83a1051747.png"
           alt="Modern beach house construction by Anthony Christaldi Builders"
           fill
-          className="object-contain md:object-cover object-center"
+          className="object-cover object-center"
           priority
         />
       </div>

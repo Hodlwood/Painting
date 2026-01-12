@@ -16,14 +16,14 @@ const galleryImages = [
     title: "Custom Home Exterior",
     category: "New Home Construction",
     size: "medium",
-    image: "/images/image-2010-13-25-20at-2011.jpeg",
+    image: "/images/screenshot-2026-01-11-204606.png",
   },
   {
     id: 3,
-    title: "Living Space Renovation",
-    category: "Remodeling",
+    title: "Luxury Bathroom Remodel",
+    category: "Kitchen & Bathroom",
     size: "medium",
-    image: "/images/screenshot-202026-01-11-20153632.png",
+    image: "/images/screenshot-2025-11-05-175930.png",
   },
   {
     id: 4,
@@ -34,10 +34,10 @@ const galleryImages = [
   },
   {
     id: 5,
-    title: "Luxury Bathroom Remodel",
-    category: "Kitchen & Bathroom",
+    title: "Living Space Renovation",
+    category: "Remodeling",
     size: "medium",
-    image: "/images/screenshot-2025-11-05-175930.png",
+    image: "/images/screenshot-202026-01-11-20153632.png",
   },
   {
     id: 6,

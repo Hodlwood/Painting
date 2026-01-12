@@ -30,15 +30,15 @@ const services = [
     description: "Custom home theaters designed for the ultimate entertainment experience with acoustic perfection.",
   },
   {
+    icon: "🪵",
+    title: "Decks",
+    description: "Beautiful outdoor living spaces built to last. Custom deck design and construction for your home.",
+  },
+  {
     icon: "🛁",
     title: "Bath Tub to Shower Conversions",
     description:
       "Our specialty! Transform outdated tubs into modern, accessible shower spaces with professional installation.",
-  },
-  {
-    icon: "🪵",
-    title: "Decks",
-    description: "Beautiful outdoor living spaces built to last. Custom deck design and construction for your home.",
   },
 ]
 

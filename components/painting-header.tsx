@@ -18,7 +18,7 @@ export function PaintingHeader() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 h-14 md:h-20 ${
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 h-20 ${
         isScrolled ? "bg-white shadow-md" : "bg-white/95 backdrop-blur-sm"
       }`}
     >
@@ -31,7 +31,7 @@ export function PaintingHeader() {
                 alt="Anthony Christaldi Builders"
                 width={400}
                 height={128}
-                className="h-10 md:h-32 w-auto object-contain"
+                className="h-32 w-auto object-contain"
                 priority
               />
             </div>

@@ -61,7 +61,7 @@ export function GallerySection() {
           </div>
           <h2 className="font-heading font-bold text-4xl md:text-5xl text-foreground mb-4">Before & After Gallery</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            See the dramatic transformation we created for this Delaware home
+            See the dramatic transformation we created for this Cape May County home
           </p>
         </div>
 
@@ -77,7 +77,7 @@ export function GallerySection() {
               {/* After Image (Full) */}
               <div className="absolute inset-0 bg-muted/20 flex items-center justify-center">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Image%2010-10-25%20at%208.31%E2%80%AFPM%20%281%29-BESSGvO1PwG8OJo8YXnZX3HblqDtYk.jpeg"
+                  src="/images/image-2010-10-25-20at-208.jpeg"
                   alt="After painting - interior room with blue walls and white trim"
                   fill
                   className="object-contain bg-muted/20"
@@ -94,7 +94,7 @@ export function GallerySection() {
                 style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
               >
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Image%2010-10-25%20at%208.31%E2%80%AFPM-FrTzxcekcrwAfbaKpS5EutvjguZWjI.jpeg"
+                  src="/images/image-2010-10-25-20at-208.jpeg"
                   alt="Before painting - interior room with windows"
                   fill
                   className="object-contain bg-muted/20"
@@ -143,7 +143,7 @@ export function GallerySection() {
                   </h3>
                   <p className="text-muted-foreground flex items-center gap-2">
                     <span className="inline-block w-2 h-2 bg-primary rounded-full"></span>
-                    Wilmington, DE
+                    Cape May County, NJ
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2">

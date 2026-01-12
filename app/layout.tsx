@@ -29,10 +29,21 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Professional Painting Services | Fresh Coat Painters",
+  title: "Anthony Christaldi Builders | Building & Renovating Cape May County Homes Since 1975",
   description:
-    "Expert interior and exterior painting services. Serving Bear, Middletown, Newark, Odessa, Smyrna, and Townsend. Get your free quote today!",
+    "Family owned building contractor specializing in new home construction, additions, remodeling, kitchen & bathroom renovations, home theaters, and tub to shower conversions. Serving all of Cape May County - Cape May, Avalon, Stone Harbor, Sea Isle City, Wildwood, Ocean City, and surrounding areas.",
   generator: "v0.app",
+  openGraph: {
+    title: "Anthony Christaldi Builders | Building & Renovating Cape May County Homes Since 1975",
+    description:
+      "Family owned building contractor specializing in new home construction, additions, remodeling, kitchen & bathroom renovations, home theaters, and tub to shower conversions.",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Anthony Christaldi Builders | Cape May County Contractor",
+    description: "Family owned building contractor. Building & renovating Cape May County homes since 1975.",
+  },
 }
 
 export default function RootLayout({

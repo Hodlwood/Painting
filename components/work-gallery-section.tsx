@@ -51,7 +51,7 @@ const galleryImages = [
     title: "Shower Conversion",
     category: "Bath Tub to Shower Conversions",
     size: "medium",
-    image: "/images/screenshot-2025-11-05-175235.png",
+    image: "/images/6482975b-d7e1-4d06-88af.jpeg",
   },
   {
     id: 8,

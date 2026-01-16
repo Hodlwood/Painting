@@ -44,7 +44,7 @@ const galleryImages = [
     title: "Custom Deck Build",
     category: "Decks",
     size: "medium",
-    image: "/images/screenshot-202026-01-11-20135105.png",
+    image: "/images/img-2576.jpg",
   },
   {
     id: 7,

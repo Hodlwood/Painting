@@ -37,7 +37,7 @@ const galleryImages = [
     title: "Living Space Renovation",
     category: "Remodeling",
     size: "medium",
-    image: "/images/screenshot-202026-01-11-20153632.png",
+    image: "/images/img-2577.jpg",
   },
   {
     id: 6,

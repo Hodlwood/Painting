@@ -60,6 +60,13 @@ const galleryImages = [
     size: "medium",
     image: "/images/screenshot-2026-01-11-134912.png",
   },
+  {
+    id: 9,
+    title: "Custom Trimwork & Millwork",
+    category: "Remodeling",
+    size: "medium",
+    image: "/images/img-2581.jpg",
+  },
 ]
 
 export function WorkGallerySection() {

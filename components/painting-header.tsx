@@ -27,7 +27,7 @@ export function PaintingHeader() {
           <Link href="/" className="flex items-center group">
             <div className="flex items-center transition-transform group-hover:scale-105">
               <Image
-                src="/images/738d3a54-32c0-43de-bbd7.png"
+                src="/images/112ead76-11ed-49b2-937d.png"
                 alt="Anthony Christaldi Builders"
                 width={400}
                 height={128}

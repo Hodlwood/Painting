@@ -68,8 +68,8 @@ export function InteriorExteriorSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-2xl blur-2xl group-hover:blur-3xl transition-all duration-500" />
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border-4 border-white shadow-2xl">
                 <Image
-                  src="/images/home-2486092-1280.jpg"
-                  alt="Custom home construction interior"
+                  src="/images/screenshot-202026-01-15-20195145.png"
+                  alt="Custom home construction with dark gray siding and white trim"
                   fill
                   className="object-cover"
                 />

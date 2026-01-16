@@ -67,6 +67,13 @@ const galleryImages = [
     size: "medium",
     image: "/images/img-2581.jpg",
   },
+  {
+    id: 10,
+    title: "Basement Refinished",
+    category: "Remodeling",
+    size: "medium",
+    image: "/images/img-2582.jpg",
+  },
 ]
 
 export function WorkGallerySection() {

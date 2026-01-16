@@ -16,7 +16,7 @@ const galleryImages = [
     title: "Custom Home Exterior",
     category: "New Home Construction",
     size: "medium",
-    image: "/images/screenshot-2026-01-11-204606.png",
+    image: "/images/img-2579-1.jpg",
   },
   {
     id: 3,

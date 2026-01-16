@@ -69,7 +69,7 @@ const galleryImages = [
   },
   {
     id: 10,
-    title: "Basement Refinished",
+    title: "Refinished Basement", // Changed from "Basement Refinished" to "Refinished Basement"
     category: "Remodeling",
     size: "medium",
     image: "/images/img-2582.jpg",

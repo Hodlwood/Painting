@@ -23,7 +23,7 @@ const galleryImages = [
     title: "Luxury Bathroom Remodel",
     category: "Kitchen & Bathroom",
     size: "medium",
-    image: "/images/screenshot-2025-11-05-175930.png",
+    image: "/images/img-2570.jpg",
   },
   {
     id: 4,

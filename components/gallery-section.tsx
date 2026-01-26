@@ -77,7 +77,7 @@ export function GallerySection() {
               {/* After Image (Full) */}
               <div className="absolute inset-0">
                 <Image
-                  src="/images/screenshot-202026-01-26-20103809.png"
+                  src="/images/screenshot-202026-01-26-20104222.png"
                   alt="After - renovated deck with brown composite decking and white lattice"
                   fill
                   className="object-cover"

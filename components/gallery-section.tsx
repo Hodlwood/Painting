@@ -75,12 +75,12 @@ export function GallerySection() {
               onTouchMove={handleTouchMove}
             >
               {/* After Image (Full) */}
-              <div className="absolute inset-0 bg-muted/20 flex items-center justify-center">
+              <div className="absolute inset-0">
                 <Image
-                  src="/images/image-2010-10-25-20at-208.jpeg"
-                  alt="After painting - interior room with blue walls and white trim"
+                  src="/images/screenshot-202026-01-26-20103809.png"
+                  alt="After - renovated deck with brown composite decking and white lattice"
                   fill
-                  className="object-contain bg-muted/20"
+                  className="object-cover"
                   priority
                 />
                 <div className="absolute top-6 right-6 bg-gradient-to-r from-primary to-blue-600 text-white px-4 py-2 rounded-lg text-sm font-bold shadow-lg backdrop-blur-sm z-10">
@@ -94,10 +94,10 @@ export function GallerySection() {
                 style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
               >
                 <Image
-                  src="/images/image-2010-10-25-20at-208.jpeg"
-                  alt="Before painting - interior room with windows"
+                  src="/images/screenshot-202026-01-26-20103751.png"
+                  alt="Before - weathered gray wooden deck with broken railings"
                   fill
-                  className="object-contain bg-muted/20"
+                  className="object-cover"
                   priority
                 />
                 <div className="absolute top-6 left-6 bg-gray-800/90 text-white px-4 py-2 rounded-lg text-sm font-bold shadow-lg backdrop-blur-sm z-10">
@@ -139,7 +139,7 @@ export function GallerySection() {
               <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                 <div>
                   <h3 className="font-heading font-bold text-2xl text-card-foreground mb-2">
-                    Interior Room Transformation
+                    Deck Renovation
                   </h3>
                   <p className="text-muted-foreground flex items-center gap-2">
                     <span className="inline-block w-2 h-2 bg-primary rounded-full"></span>
@@ -148,10 +148,10 @@ export function GallerySection() {
                 </div>
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold">
-                    Interior Painting
+                    Composite Decking
                   </span>
                   <span className="bg-blue-500/10 text-blue-600 px-3 py-1 rounded-full text-sm font-semibold">
-                    Trim Work
+                    Custom Railings
                   </span>
                 </div>
               </div>

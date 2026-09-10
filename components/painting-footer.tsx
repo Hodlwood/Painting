@@ -100,7 +100,7 @@ export function PaintingFooter() {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/60">
-            <p>© 2025 Anthony Christaldi Builders. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Anthony Christaldi Builders. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="/privacy" className="hover:text-white transition-colors">
                 Privacy Policy
@@ -109,6 +109,19 @@ export function PaintingFooter() {
                 Terms of Service
               </Link>
             </div>
+          </div>
+          <div className="mt-6 text-center text-sm text-white/50">
+            <p>
+              Powered by{" "}
+              <a
+                href="https://southjerseydigitalmarketing.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white/70 hover:text-white transition-colors"
+              >
+                southjerseydigitalmarketing.com
+              </a>
+            </p>
           </div>
         </div>
       </div>

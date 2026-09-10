@@ -110,6 +110,17 @@ export function PaintingFooter() {
               </Link>
             </div>
           </div>
+          <p className="mt-6 text-center text-xs text-white/50">
+            Powered by{" "}
+            <a
+              href="https://southjerseydigitalmarketing.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition-colors"
+            >
+              southjerseydigitalmarketing.com
+            </a>
+          </p>
         </div>
       </div>
     </footer>
